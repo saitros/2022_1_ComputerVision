@@ -1,4 +1,4 @@
-** Presentation paper **
+# Presentation paper
 
 ### Index Terms
 
