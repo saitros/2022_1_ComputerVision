@@ -14,6 +14,9 @@
 
 ## Method
 
+이 연구도 앞쪽 레이어를 뒤쪽 레이어와 연결시키고자 하는데에서 출발한다.
+ResNet 의 경우 
+
 ## Experiment
 
 ## Summary
