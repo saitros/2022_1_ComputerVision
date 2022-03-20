@@ -19,6 +19,10 @@ ResNet 의 경우
 
 ## Experiment
 
+실험에서 보여주고자 했던 부분은 관련된 연구인 ResNet과 비교하여 적은 parameter 로 낮은 error rate 를 달성하였다는 것이다. 
+
+과적합 관련 : 적은 파라미터를 효율적으로 사용함으로써 과적합되는 경향을 줄일 수 있다고한다. (동일한 레이어 안에서 가중치가 분산됨에 따라 weight smoothing 의 효과를 낸다고 생각됨)
+
 ## Summary
 
 (발표듣기전) ResNet과 유사한 구조를 가지고 있지만 previous layer 의 정보를 concatenation 하는 부분에서 차이가 벌어진다.
