@@ -29,3 +29,14 @@
   - PointRend: Image Segmentation as Rendering (Kirillov et al. CVPR 2020)
   - Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification (Buolamwini and Gebru FAT 2018)
   - Dissecting racial bias in an algorithm used to manage the health of populations (Obermeyer et al. Science 2019)
+
+
+~~~~ 이전꺼 업로드 할 예정
+
+5/11
+  - NeRF (Mildenhall et al. ECCV 2020)
+  - Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision (Niemeyer et al. CVPR 2020)
+  - Speech2Action: Cross-modal Supervision for Action Recognition (Nagrani et al. CVPR 2020)
+  - Less is More: CLIPBERT for Video-andLanguage Learning via Sparse Sampling (Lei et al. CVPR 2021)
+  - [발표 x]SPSG: Self-Supervised Photometric Scene Generation from RGB-D Scans (Dai et al. CVPR 2021)  
+  - [발표 x]End-to-End Learning of Visual Representations from Uncurated Instructional Videos (Miech et al. CVPR 2020)
