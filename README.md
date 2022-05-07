@@ -31,7 +31,7 @@
   - Dissecting racial bias in an algorithm used to manage the health of populations (Obermeyer et al. Science 2019)
 
 
-~~~~ 이전꺼 업로드 할 예정
+~ 이전꺼 업로드 할 예정
 
 5/11
   - NeRF (Mildenhall et al. ECCV 2020)
