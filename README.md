@@ -40,3 +40,10 @@
   - Less is More: CLIPBERT for Video-andLanguage Learning via Sparse Sampling (Lei et al. CVPR 2021)
   - [발표 x]SPSG: Self-Supervised Photometric Scene Generation from RGB-D Scans (Dai et al. CVPR 2021)  
   - [발표 x]End-to-End Learning of Visual Representations from Uncurated Instructional Videos (Miech et al. CVPR 2020)
+
+5/18 
+  - Neural Topological SLAM for Visual Navigation(Chaplot et al. CVPR 2020)
+  - SoundSpaces: Audio-Visual Navigation in 3D Environments (Chen et al. ECCV 2020)
+  - Semantic Visual Navigation by Watching Youtube Videos (Chang et al. NeurIPS 2020)
+  - VisualCOMET: Reasoning about the Dynamic Context of a Still Image (Park et al. ECCV 2020)
+  - [발표 x]Time-Agnostic Prediction: Predicting Predictable Video Frames (Jayaraman et al. ICLR 2019)
